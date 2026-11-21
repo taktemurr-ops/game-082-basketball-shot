@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_082_basketball_shot/core/arcade.dart';
-import 'package:game_082_basketball_shot/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_082_basketball_shot/game/shot_engine.dart';
 import 'package:game_082_basketball_shot/game/rules.dart';
 

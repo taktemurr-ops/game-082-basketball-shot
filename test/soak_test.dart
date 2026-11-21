@@ -1,11 +1,11 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_082_basketball_shot/core/clock.dart';
-import 'package:game_082_basketball_shot/core/game_rules.dart';
-import 'package:game_082_basketball_shot/core/game_session.dart';
-import 'package:game_082_basketball_shot/core/level_plan.dart';
-import 'package:game_082_basketball_shot/core/rng.dart';
-import 'package:game_082_basketball_shot/core/save_store.dart';
-import 'package:game_082_basketball_shot/core/telemetry.dart';
+import 'package:studio_core/core/clock.dart';
+import 'package:studio_core/core/game_rules.dart';
+import 'package:studio_core/core/game_session.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/rng.dart';
+import 'package:studio_core/core/save_store.dart';
+import 'package:studio_core/core/telemetry.dart';
 import 'package:game_082_basketball_shot/game/rules.dart';
 
 /// 24-month operation simulation (doc 6, 10, 12): a virtual player opens
